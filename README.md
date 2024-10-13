@@ -11,7 +11,7 @@ The field of data professions is growing rapidly, but understanding global trend
 
 - Data Preparation:
 
-    Loaded survey data from 700+ data professionals across multiple countries.
+    Loaded survey data from 500+ data professionals across multiple countries.
     Grouped countries into "major" countries and an "others" category for smaller nations.
 - Visualization Design:
 
